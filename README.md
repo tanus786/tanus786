@@ -15,7 +15,7 @@ I'm A Web Developer...
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tanus786&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <p>
-  <a herf="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=updesh126" width="350">
+  <a herf="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanus786" width="350">
 </p>
 <p>
 
@@ -45,9 +45,6 @@ I'm A Web Developer...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tanu786_?t=kLo9S1sph-21PmRmAOwLGw&s=09)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClxzLV9ONjv4A-cDezfajHQ)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010738623302)
-
-## 🤖Most Used Language
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanus786)
 
 ## Github
 
