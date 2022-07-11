@@ -1,31 +1,22 @@
-### Hi there 👋
 
-<!--
-**tanus786/Tanus786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m Tanu Soni!
+- 👀 I’m Interested In Blockchain,Web Development And Coding.
+- 🌱 Currently Persuing My Btech Form ATKU.
+- 💞️ Contact Me For Any Colaboration.
+- 📫 Tanusoni2312@gmail.com 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 👀 I’m interested in creating games and software
-- 🌱 I’m currently learning Btech
-- 💞️ I any looking to collaborate with me ...
-- 📫 tanusoni2312@gmail.com
-
-<!---
-tanus786/Tanus786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## 🚀 About Me
+<img src="./image.png" align="right" width="450" />
 
 I'm a Web developer...
+<p>
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=updesh126&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+<p>
+  <a herf="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=updesh126" width="350">
+</p>
+<p>
 
 ## Language & Framework 
 ![C language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
