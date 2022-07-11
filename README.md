@@ -1,6 +1,6 @@
 ## 👀Hey, There :)
 - 👋 I’m Tanu Soni!
-- 👀 I’m Interested In Blockchain,Web Development And Coding.
+- 👩‍🎓 I’m Interested In Blockchain,Web Development And Coding.
 - 🌱 Currently Persuing My Btech From ATKU.
 - 💞️ Contact Me For Any Colaboration.
 - 📫 Tanusoni2312@gmail.com 
