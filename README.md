@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 I'm A Web Developer...🐱‍🏍
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanus786&show_icons=true&locale=en" alt="tanus786" width="400" /></p>
 <img src="./gummy-app-development.png" align="right" width="450" />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanus786&show_icons=true&locale=en" alt="tanus786" width="400" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanus786&show_icons=true&locale=en&layout=compact" alt="tanus786" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanus786&" alt="tanus786" /></p>
 
