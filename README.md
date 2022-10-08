@@ -3,7 +3,7 @@
 ## 👀Hey, There :)
 - 👋 I’m Tanu Soni!
 - 👩‍🎓 Currently Persuing My Btech From ATKU.
-- 🌱 I’m Interested In Blockchain,Web Development And Coding.
+- 🌱 I’m Interested In Blockchain,Web Development And Competitive Programming.
 - 💞️ Contact Me For Any Colaboration.
 - 📫 Tanusoni2312@gmail.com 
 
@@ -11,7 +11,7 @@
 
 <img src="./gummy-app-development.png" align="right" width="450" />
 
-I'm A Web Developer...
+I'm A Web Developer...🐱‍🏍
 <p>
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tanus786&show_icons=true&count_private=true&theme=dark" width="350"></a>
