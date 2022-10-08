@@ -12,16 +12,20 @@
 <img src="./gummy-app-development.png" align="right" width="450" />
 
 I'm A Web Developer...🐱‍🏍
-<p>
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tanus786&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-<p>
-  <a herf="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanus786" width="350">
-</p>
-<p>
 
-## Language & Framework 
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanus786&show_icons=true&locale=en" alt="tanus786" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanus786&show_icons=true&locale=en&layout=compact" alt="tanus786" /></p>
+ 
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ 
+ 
+ ## Language & Framework 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 ![C language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++ language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
