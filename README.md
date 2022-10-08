@@ -9,7 +9,8 @@
 
 ## 🚀 About Me
 I'm A Web Developer...🐱‍🏍
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanus786&show_icons=true&locale=en" alt="tanus786" width="400" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanus786&show_icons=true&locale=en" alt="tanus786" width="500" /></p>
 <img src="./gummy-app-development.png" align="right" width="400" />
 
 
