@@ -8,10 +8,9 @@
 - 📫 Tanusoni2312@gmail.com 
 
 ## 🚀 About Me
+I'm A Web Developer...🐱‍🏍
 
 <img src="./gummy-app-development.png" align="center" width="450" />
-
-I'm A Web Developer...🐱‍🏍
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanus786&show_icons=true&locale=en" alt="tanus786" /></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanus786&show_icons=true&locale=en&layout=compact" alt="tanus786" /></p>
