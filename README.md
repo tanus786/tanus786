@@ -1,5 +1,6 @@
-## 👀Hey, There :)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanus786&label=Profile%20views&color=0e75b6&style=flat" alt="tanus786" /> </p>
+
+## 👀Hey, There :)
 - 👋 I’m Tanu Soni!
 - 👩‍🎓 Currently Persuing My Btech From ATKU.
 - 🌱 I’m Interested In Blockchain,Web Development And Coding.
