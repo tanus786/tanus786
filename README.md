@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-<img src="./gummy-app-development.png" align="right" width="450" />
+<img src="./gummy-app-development.png" align="center" width="450" />
 
 I'm A Web Developer...🐱‍🏍
 
