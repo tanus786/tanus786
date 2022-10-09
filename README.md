@@ -9,10 +9,13 @@
 
 ## 🚀 About Me
 I'm A Web Developer...🐱‍🏍
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanus786&show_icons=true&theme=github_dark"></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanus786&show_icons=true&theme=github_dark&hide_border=true"></p>
 <img src="./gummy-app-development.png" align="right" width="400" />
 <p><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tanus786&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"></p>
 <p>
+
+## Github Contribution Streak 🔥
+
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=tanus786&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 
