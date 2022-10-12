@@ -46,7 +46,7 @@ I'm A Web Developer...🐱‍🏍
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClxzLV9ONjv4A-cDezfajHQ)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010738623302)
 
-## Trophies 🏆:
+## Trophies 🏆
 <br>
 <p align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=tanus786&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
