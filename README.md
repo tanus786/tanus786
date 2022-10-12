@@ -53,3 +53,6 @@ I'm A Web Developer...🐱‍🏍
 </p>
 <hr>
 <br>
+
+## HackOctober Fest 2022 Badges(●'◡'●)
+[![@tanu786_'s Holopin board](https://holopin.me/tanu786_)](https://holopin.io/@tanu786_)
