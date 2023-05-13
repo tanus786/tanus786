@@ -3,7 +3,7 @@
 ## 👀Hey, There :)
 - 👋 I’m Tanu Soni!
 - 👩‍🎓 Currently Persuing My Btech From ATKU.
-- 🌱 I’m Interested In Blockchain,Web Development And Competitive Programming.
+- 🌱 I’m Interested In JAVA,Web Development And Competitive Programming.
 - 💞️ Contact Me For Any Colaboration.
 - 📫 Tanusoni2312@gmail.com 
 
