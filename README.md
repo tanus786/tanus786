@@ -3,7 +3,7 @@
 ## 👀Hey, There :)
 - 👋 I’m Tanu Soni!
 - 👩‍🎓 Currently Persuing My Btech From ATKU.
-- 🌱 I’m Interested In JAVA,Web Development And Competitive Programming.
+- 🌱 I’m Interested In JAVA Development And Competitive Programming.
 - 💞️ Contact Me For Any Colaboration.
 - 📫 Tanusoni2312@gmail.com 
 
@@ -16,7 +16,7 @@
 ## Github Contribution Streak 🔥
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=tanus786&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-
+[![Tanu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanus786)](https://github.com/tanus786/github-readme-stats)
 ## Language & Framework 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 ![C language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
