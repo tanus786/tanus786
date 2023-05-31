@@ -17,7 +17,7 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=tanus786&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanus786&repo=github-readme-stats)](https://github.com/tanus786/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanus786&repo=github-readme-stats)](https://github.com/tanus786/CP-Codes-HackOctober-Fest-2022)
 ## Language & Framework 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 ![C language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
