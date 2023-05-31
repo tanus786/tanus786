@@ -8,7 +8,7 @@
 - 📫 Tanusoni2312@gmail.com 
 
 ## 🚀 Let's Explore My Github Profile
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanuwuu&show_icons=true&theme=github_dark&hide_border=true"></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanu786&show_icons=true&theme=github_dark&hide_border=true"></p>
 
 <img src="./gummy-app-development.png" align="right" width="400" />
 <p><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tanuwuu&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"></p>
