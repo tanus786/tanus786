@@ -48,7 +48,7 @@
 ## Trophies 🏆
 <br>
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=tanus786&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
+<img src="https://github-profile-trophy.vercel.app/?username=tanuwuu&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
 </p>
 <hr>
 <br>
